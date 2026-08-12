@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dark War QR</string>
+    <string name="open_failed">TV Bro is not installed. Please install TV Bro, then try again.</string>
+</resources>
